@@ -1,0 +1,20 @@
+version: 0.1
+services:
+  datagram:
+    image: virgilbb/datagram-node:amd64
+    imagePullPolicy: Always
+    command: []
+    args: []
+    env:
+      - name: DATAGRAM_LICENSE_KEY
+        value: '{{.DATAGRAM_LICENSE_KEY}}'
+      - name: NODE_NAME
+        value: '{{.NODE_NAME}}'
+        default: nodeops-datagram
+      - name: LOG_LEVEL
+        value: '{{.LOG_LEVEL}}'
+        default: info
+    resourceUsage:
+      idle:
+        cpu: 200
+        memory: 256
