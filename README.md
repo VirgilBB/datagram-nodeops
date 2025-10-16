@@ -1,5 +1,7 @@
 # 🌐 Datagram Alpha Testnet Node - NodeOps Template
 
+![Datagram Logo](assets/datagram_logo.svg)
+
 Deploy a Datagram Alpha Testnet node on NodeOps and earn points for future $DGRAM tokens!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
