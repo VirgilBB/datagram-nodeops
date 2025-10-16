@@ -1,6 +1,6 @@
 # 🌐 Datagram Alpha Testnet Node - NodeOps Template
 
-![Datagram Logo](assets/datagram_logo.svg)
+![Datagram Logo](assets/datagram-logo.png)
 
 Deploy a Datagram Alpha Testnet node on NodeOps and earn points for future $DGRAM tokens!
 
