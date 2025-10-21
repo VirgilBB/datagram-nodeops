@@ -26,10 +26,12 @@ This is a NodeOps template that lets you deploy a **Datagram Alpha Testnet Full 
 ### Step 1: Get Your Datagram License Key
 
 1. Visit [demo.datagram.network/account?tab=apis](https://demo.datagram.network/account?tab=apis)
-2. Create your account and generate API key
+2. Create your account and generate API key (required first!)
 3. Visit [demo.datagram.network/wallet?tab=licenses](https://demo.datagram.network/wallet?tab=licenses)
 4. Generate your license key
 5. **Save it securely** - you'll need it for deployment
+
+⚠️ **Important**: You must create the API key first before you can generate a license key!
 
 ### Step 2: Deploy on NodeOps
 

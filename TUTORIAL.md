@@ -40,6 +40,8 @@ Complete guide to deploying and managing your Datagram Alpha Testnet node on Nod
 5. Generate your API key
 6. **Save it securely** - you'll need this for account management
 
+⚠️ **Important**: You must create the API key first before you can generate a license key!
+
 ### Step 2: Get Your License Key
 
 1. Visit [demo.datagram.network/wallet?tab=licenses](https://demo.datagram.network/wallet?tab=licenses)
