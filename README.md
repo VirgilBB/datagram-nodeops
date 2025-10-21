@@ -24,7 +24,7 @@ This is a NodeOps template that lets you deploy a **Datagram Alpha Testnet Full 
 ## 🚀 Quick Start
 
 ### Step 1: Get Your Datagram License Key
-
+Use my referral code: https://demo.datagram.network?ref=228585884
 1. Visit [demo.datagram.network/account?tab=apis](https://demo.datagram.network/account?tab=apis)
 2. Create your account and generate API key (required first!)
 3. Visit [demo.datagram.network/wallet?tab=licenses](https://demo.datagram.network/wallet?tab=licenses)
